@@ -6,7 +6,7 @@
         background-attachment: fixed;
         color: white;
     }
-</style>
+</style>![Description of Image](DALL·E%202025-02-09%2013.36.25%20-%20A%20modern%20web%20application%20interface%20for%20uploading%20audio%20files.%20The%20interface%20has%20a%20clean%20and%20user-friendly%20design%20with%20an%20upload%20button,%20a%20language%20sel.webp)
 
 # Audio Translation Project
 
