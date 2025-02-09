@@ -1,14 +1,5 @@
-<style>
-    body {
-        background-image: url('DALL·E 2025-02-09 13.36.25 - A modern web application interface for uploading audio files. The interface has a clean and user-friendly design with an upload button, a language sel.webp');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
-        color: white;
-    }
-</style>![Description of Image](DALL·E%202025-02-09%2013.36.25%20-%20A%20modern%20web%20application%20interface%20for%20uploading%20audio%20files.%20The%20interface%20has%20a%20clean%20and%20user-friendly%20design%20with%20an%20upload%20button,%20a%20language%20sel.webp)
 
-# Audio Translation Project
+ Audio Translation Project
 
 ## Description
 This project is a Flask web application that allows users to upload audio files for translation using OpenAI's Whisper API. The application provides a user-friendly interface for uploading audio files and specifying the language for translation.
